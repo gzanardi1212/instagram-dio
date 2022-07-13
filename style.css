@@ -76,14 +76,14 @@ body {
     height: 6rem;
 }
 
-.instagram-login {
+.instamusic-login {
     background-color: #eb4141;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
 
-.instagram-logout {
+.instamusic-logout {
     color: #eb4141;
     margin-top: 1rem;
 }
@@ -129,7 +129,6 @@ body {
 
 /* media queries */
 
-
 @media screen and (max-width: 1024px) {
     .container-maior{
         width: 90%;
@@ -149,7 +148,7 @@ body {
         display: none;
     }
 
-    .instagram-continue {
+    .instamusic-continue {
         width: 100%;
     }
     
